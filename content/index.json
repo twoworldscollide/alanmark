@@ -1,0 +1,8 @@
+{
+  "posts": [
+    {"date":"2026-11-02T12:00:00-08:00","blocks":[{"type":"text","text":"Welcome to my space. I'll put things here when I feel like it."}]}
+  ],
+  "projects": [
+    {"slug":"2025-10-04","date":"2025-10-04T12:00:00-07:00","blocks":[{"type":"text","text":"This is an example project. Replace it with your own photos, audio, videos, or writing."}]}
+  ]
+}
